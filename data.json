@@ -2,7 +2,8 @@
   "3 Tri Sukses": [
     {"id": 1, "nama": "Akhlaqul Kharimah", "deskripsi": [
       "Budi pekerti luhur",
-      "Hormat kepada orang yang lebih tua"]
+      "Hormat kepada orang yang lebih tua"
+    ]
       },
     {"id": 2, "nama": "Alim Faqih", "deskripsi": "Pintar dan memahami agama"},
     {"id": 3, "nama": "Mandiri", "deskripsi": "Berdiri sendiri"}
