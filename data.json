@@ -1,11 +1,10 @@
 {
   "3 Tri Sukses": [
     {"id": 1, "nama": "Akhlaqul Kharimah", "deskripsi": [
-      "Budi pekerti luhur",
-      "Hormat kepada orang yang lebih tua"]
+      "Memiliki akhlak yang mulia, yaitu berbudi pekerti luhur, jujur, dan amanah dalam kehidupan sehari-hari"]
       },
-    {"id": 2, "nama": "Alim Faqih", "deskripsi": "Pintar dan memahami agama"},
-    {"id": 3, "nama": "Mandiri", "deskripsi": "Berdiri sendiri"}
+    {"id": 2, "nama": "Alim Faqih", "deskripsi": "Memiliki pemahaman agama yang mendalam, sehingga generasi muda memahami dan mengamalkan ajaran Islam dengan baik."},
+    {"id": 3, "nama": "Mandiri", "deskripsi": "Memiliki jiwa kemandirian, baik dalam bidang ekonomi, keterampilan, maupun kemampuan untuk memecahkan masalah dan bertanggung jawab atas dirinya sendiri."}
   ],
   "6 Tobiat Luhur": [
     {"id": 4, "nama": "Rukun", "deskripsi":[
