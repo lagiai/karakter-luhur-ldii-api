@@ -29,14 +29,14 @@
   ],
   "4 Tali Keimanan": [
     {"id": 10, "nama": "Bersyukur", "deskripsi": ""},
-    {"id": 11, "nama": "Mempersungguh", "deskripsi": "Mengakui kesalahan"},
-    {"id": 12, "nama": "Mengagungkan", "deskripsi": "Menghormati"},
+    {"id": 11, "nama": "Mempersungguh", "deskripsi": " "},
+    {"id": 12, "nama": "Mengagungkan", "deskripsi": " "},
     {"id": 13, "nama": "Berdoa", "deskripsi": ""}
   ],
   "3 Prinsip Kerja": [
     {"id": 14, "nama": "Benar", "deskripsi": ""},
-    {"id": 15, "nama": "Kurup", "deskripsi": "Tegas"},
-    {"id": 16, "nama": "Janji", "deskripsi": "Menepati janji"}
+    {"id": 15, "nama": "Kurup", "deskripsi": " "},
+    {"id": 16, "nama": "Janji", "deskripsi": " "}
   ],
   "4 Maqodirulloh": [
     {"id": 17, "nama": "Apabila diberi qodar nikmat, bersyukur", "deskripsi": "Nikmat"},
