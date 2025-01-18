@@ -10,7 +10,7 @@
     {"id": 6, "nama": "Kerjasama yang baik", "deskripsi": ""},
     {"id": 7, "nama": "Jujur", "deskripsi": ""},
     {"id": 8, "nama": "Amanah", "deskripsi": "Dipercaya"},
-    {"id": 9, "nama": "Mujahid Muzhid", "deskripsi": "Bersemangat dan berdedikasi"}
+    {"id": 9, "nama": "Mujhid Muzhid", "deskripsi": "Bersemangat dan berdedikasi"}
   ],
   "4 Tali Keimanan": [
     {"id": 10, "nama": "Bersyukur", "deskripsi": ""},
@@ -24,22 +24,22 @@
     {"id": 16, "nama": "Janji", "deskripsi": "Menepati janji"}
   ],
   "4 Maqodirulloh": [
-    {"id": 17, "nama": "Bersyukur", "deskripsi": "Nikmat"},
-    {"id": 18, "nama": "Istirja'", "deskripsi": "Musibah"},
-    {"id": 19, "nama": "Sabar", "deskripsi": "Cobaan"},
-    {"id": 20, "nama": "Bertaubat", "deskripsi": "Salah"}
+    {"id": 17, "nama": "Apabila diberi qodar nikmat, bersyukur", "deskripsi": "Nikmat"},
+    {"id": 18, "nama": "Apabila diberi qodar musibah, istirja’", "deskripsi": "Musibah"},
+    {"id": 19, "nama": "Apabila diberi qodar cobaan, sabar", "deskripsi": "Cobaan"},
+    {"id": 20, "nama": "Apabila diberi qodar qodar salah, bertaubat", "deskripsi": "Salah"}
   ],
   "4 Roda Berputar": [
-    {"id": 21, "nama": "Membantu yang lemah", "deskripsi": ""},
-    {"id": 22, "nama": "Membantu yang tidak bisa", "deskripsi": ""},
-    {"id": 23, "nama": "Mengingatkan yang lupa", "deskripsi": ""},
-    {"id": 24, "nama": "Menasehati yang salah", "deskripsi": ""}
+    {"id": 21, "nama": "yang kuat membantu yang lemah", "deskripsi": ""},
+    {"id": 22, "nama": "yang bisa membantu yang tidak bisa", "deskripsi": ""},
+    {"id": 23, "nama": "yang ingat mengingatkan yang lupa", "deskripsi": ""},
+    {"id": 24, "nama": "yang salah dinasehati agar mau bertaubat", "deskripsi": ""}
   ],
   "5 Syarat Kerukunan dan Kekompakkan": [
-    {"id": 25, "nama": "Bicara yang baik", "deskripsi": ""},
-    {"id": 26, "nama": "Jujur dan dipercaya", "deskripsi": ""},
-    {"id": 27, "nama": "Sabar dan tidak merusak", "deskripsi": ""},
-    {"id": 28, "nama": "Saling memperhatikan", "deskripsi": ""},
-    {"id": 29, "nama": "Menjaga perasaan sesama", "deskripsi": ""}
+    {"id": 25, "nama": "Menerampilkan Berbicara yang Baik dan Benar", "deskripsi": ""},
+    {"id": 26, "nama": "Jujur, bisa dipercaya dan mempercayai", "deskripsi": ""},
+    {"id": 27, "nama": "Sabar Keporo Ngalah, rebutan ngalah", "deskripsi": ""},
+    {"id": 28, "nama": "Tidak merusak sesama Jmh baik diri, harta, hak asasi dan kehormatan", "deskripsi": ""},
+    {"id": 29, "nama": "Saling memperhatikan dan menjaga perasaan", "deskripsi": ""}
   ]
 }
